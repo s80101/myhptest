@@ -1,12 +1,22 @@
+html,body{
+  margin:0;
+  padding:0;
+}
 header{
   background-color:#3DFFFF;
-  height: 50%;
+  height:25%;
   width: 100%;
+  position:absolute;
 }
 .headnar{
   background-color: #6EFF6E;
-  font-size: 50px;
+  font-size: 20px;
+  height: 100%;
   width: 15%;
   color: #000000;
-  margin-left: auto;
+  float: right;
+  margin: 1em;
+  margin-top:0;
+  margin-right:0;
+
 }
